@@ -1,0 +1,26 @@
+{
+  "name": "promise",
+  "version": "1.0.0",
+  "description": "promise/A+",
+  "main": "PromiseCopy.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "promises-aplus-tests": "^2.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "promises-aplus-tests PromiseCopy.js"
+},  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dashingdog/promise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dashingdog/promise/issues"
+  },
+  "homepage": "https://github.com/dashingdog/promise#readme"
+}
